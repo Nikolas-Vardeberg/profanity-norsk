@@ -1,0 +1,6 @@
+name = "profanity-api-demo"
+compatibility_date =  "2024-04-16"
+
+[vars]
+VECTOR_URL = "https://light-goose-40616-us1-vector.upstash.io"
+VECTOR_TOKEN = "ABUFMGxpZ2h0LWdvb3NlLTQwNjE2LXVzMWFkbWluTkRNelltUmtNR0V0WWpReU9TMDBPRGRqTFdKaU1ETXRNek5oWW1FM01qWTFZV1pt"
