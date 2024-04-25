@@ -8,10 +8,9 @@ interface Row {
 }
 
 const index = new Index({
-    url: "https://light-goose-40616-us1-vector.upstash.io",
-    token: "ABUFMGxpZ2h0LWdvb3NlLTQwNjE2LXVzMWFkbWluTkRNelltUmtNR0V0WWpReU9TMDBPRGRqTFdKaU1ETXRNek5oWW1FM01qWTFZV1pt",
-  })
-  
+  url: "https://fast-deer-83754-us1-vector.upstash.io",
+  token: "ABMFMGZhc3QtZGVlci04Mzc1NC11czFhZG1pblpHUmtNak5sTmpjdE9UWmpOQzAwTURJeUxUZ3lPVFl0TXpNek9UUmhNREZqTVRRMw==",
+})
 
 async function parseCSV(filePath: string): Promise<Row[]> {
     return new Promise((resolve, reject) => {
